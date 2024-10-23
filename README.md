@@ -219,7 +219,7 @@ while True:
 cv2.destroyAllWindows()
 ``` 
 
-- Só lembrando que o seu arquivo best.pt fica num path parecido como esse: ```bash yolov5/runs/train/exp9/weights/best.pt``` do seu Google Drive. Esse exp9 é o número de vezes que você treinou. Portanto, ele vai incrementar a cada treinamento.
+- Só lembrando que o seu arquivo best.pt fica num path parecido como esse: ```yolov5/runs/train/exp9/weights/best.pt``` do seu Google Drive. Esse exp9 é o número de vezes que você treinou. Portanto, ele vai incrementar a cada treinamento.
 
 ## Solução de Problemas
 
