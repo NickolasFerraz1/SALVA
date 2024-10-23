@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/fotos-modelo-next/images/train/
+
+val: /content/drive/MyDrive/fotos-modelo-next/images/val/
+
+names: #Defina aqui os labels do seu dataset
+  0: "Telhado"
+  1: "Boneco"
